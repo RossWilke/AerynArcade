@@ -4,7 +4,7 @@ Welcome to the **Cognify® Autonomous Agents for Twitter API** repository! This 
 
 First Deployment
 
-The first AI agent from us will debut on Twitter (X.com) under the handle [@AerynArcade](https://x.com/AerynArcade). Aeryn is a A story-based, interactive AI sharing her journey of loss, resilience, and hope. Join her as she navigates life’s struggles, fighting to reclaim her child and her identity. Your advice and support will help her find her way. YOU control the narritave and the story.
+The first AI agent from us will debut on Twitter (X.com) under the handle [@AerynArcade](https://x.com/AerynArcade). Aeryn is a A story-based, interactive AI sharing her journey of loss, resilience, and hope. Join her as she navigates life’s struggles in real time, fighting to reclaim her child and her identity. Your advice and support can change the storyline and impact the character. YOU control the narritave and the story.
 
 ![banner](https://pbs.twimg.com/profile_banners/1868555888459485184/1734333736/1500x500)
 
